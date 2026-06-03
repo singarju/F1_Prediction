@@ -1,4 +1,4 @@
-# Mar's 2026 F1 Race Predictions
+# 2026 F1 Race Predictions
 
 > If this helped you, star the repo — it helps more people find it
 > Will be updating throughout the season too ;) 
